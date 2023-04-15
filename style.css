@@ -1,0 +1,44 @@
+*{
+    font-family: 'Inter';
+    color: black;
+}
+
+.container{
+    margin: 10px;
+    /* margin-top: -10px; */
+    padding: 10px;
+    border: 10px;
+    box-sizing: border-box;
+    
+
+    text-align: left;
+    /* background-color: blueviolet; */
+}
+
+ .one{
+    border: 1px solid  black;
+    padding: 20px;
+ }
+
+img{
+height: 350px;
+display: inline-block;
+max-width: 500px;
+}
+
+.heading{
+    font-weight: 800;
+    font-size: 30px;
+    text-decoration: underline;
+}
+
+li{
+    margin-top: 5px;
+}
+
+.list{
+    margin-left: -20px;
+   
+}
+
+
